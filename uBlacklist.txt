@@ -1,0 +1,9 @@
+*://www.csdn.net/*
+*://i.csdn.net/*
+*://baike.baidu.com/*
+*://live.csdn.net/*
+*://plugin.csdn.net/*
+*://edu.csdn.net/*
+*://mp.csdn.net/*
+*://blog.csdn.net/*
+*://editor.csdn.net/*
